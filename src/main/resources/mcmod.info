@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "Raumod",
+    "name": "RAU Mod",
+    "description": "The RAU Mod.",
+    "version": "2.0",
+    "mcversion": "[1.8.9]",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Kbz","Squag"],
+    "credits": "Bomb Yourself.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
